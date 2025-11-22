@@ -20,7 +20,7 @@ A **fully functional PrestaShop 8.1.6** e-commerce platform deployed on **AWS Fr
 
 ## Public Storefront URL
 
-> `http://your-ec2-16-171-64-104.eu-north-1.compute.amazonaws.com`
+> `http://ec2-16-171-64-104.eu-north-1.compute.amazonaws.com`
 
 
 ## Architecture Overview
